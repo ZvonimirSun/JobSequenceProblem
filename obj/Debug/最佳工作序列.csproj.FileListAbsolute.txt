@@ -1,0 +1,14 @@
+E:\学习\GIS算法基础\0912\最佳工作序列\最佳工作序列\bin\Debug\最佳工作序列.exe.config
+E:\学习\GIS算法基础\0912\最佳工作序列\最佳工作序列\bin\Debug\最佳工作序列.exe
+E:\学习\GIS算法基础\0912\最佳工作序列\最佳工作序列\bin\Debug\最佳工作序列.pdb
+E:\学习\GIS算法基础\0912\最佳工作序列\最佳工作序列\obj\Debug\最佳工作序列.csprojResolveAssemblyReference.cache
+E:\学习\GIS算法基础\0912\最佳工作序列\最佳工作序列\obj\Debug\最佳工作序列.csproj.CoreCompileInputs.cache
+E:\学习\GIS算法基础\0912\最佳工作序列\最佳工作序列\obj\Debug\最佳工作序列.exe
+E:\学习\GIS算法基础\0912\最佳工作序列\最佳工作序列\obj\Debug\最佳工作序列.pdb
+E:\学习\GIS算法基础\0912\作业\最佳工作序列\最佳工作序列\bin\Debug\最佳工作序列.exe.config
+E:\学习\GIS算法基础\0912\作业\最佳工作序列\最佳工作序列\bin\Debug\最佳工作序列.exe
+E:\学习\GIS算法基础\0912\作业\最佳工作序列\最佳工作序列\bin\Debug\最佳工作序列.pdb
+E:\学习\GIS算法基础\0912\作业\最佳工作序列\最佳工作序列\obj\Debug\最佳工作序列.csprojResolveAssemblyReference.cache
+E:\学习\GIS算法基础\0912\作业\最佳工作序列\最佳工作序列\obj\Debug\最佳工作序列.csproj.CoreCompileInputs.cache
+E:\学习\GIS算法基础\0912\作业\最佳工作序列\最佳工作序列\obj\Debug\最佳工作序列.exe
+E:\学习\GIS算法基础\0912\作业\最佳工作序列\最佳工作序列\obj\Debug\最佳工作序列.pdb
